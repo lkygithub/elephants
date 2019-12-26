@@ -19,3 +19,8 @@ There's no way I would have gotten so far without you.
 
 ## License
 Released under the MIT License
+
+## Added
++ 网站Icon
++ 备案编号
++ 日日是好日Cover
